@@ -1,1 +1,1 @@
-# mak-Calculater
+# make-Calculater
